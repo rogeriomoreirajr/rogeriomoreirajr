@@ -1,7 +1,6 @@
 ### Olá. Sou Rogério Moreira Jr., e meu trabalho é investigar e visualizar dados 📊
 
-💼 Trabalhando no Grupo ND como Diagramador e Jornalista Visual<br>
-🌱 Aprendendo a dominar o Power BI
+💼 Trabalhando na J&A Holding como Analista de Dados do Growth Hack<br>
 
 <div style="display: inline_block"><br>
 <a href="https://github.com/rogeriomoreirajr">
